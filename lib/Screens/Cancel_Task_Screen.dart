@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:task_manager/Provider/Task_Provider.dart';
@@ -65,4 +66,15 @@ class _CancelTaskScreenState extends State<CancelTaskScreen> {
       ),
     );
   }
+=======
+import 'package:flutter/material.dart';
+
+class CancelTaskScreen extends StatelessWidget {
+  const CancelTaskScreen({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return const Placeholder();
+  }
+>>>>>>> 58110a0e2b4cafdae96934e7ef61c1356c6faf1a
 }

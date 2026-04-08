@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import 'package:flutter/material.dart';
 import 'package:task_manager/Api_Service/Api_Caller.dart';
 import 'package:task_manager/Api_Service/Urls.dart';
@@ -82,4 +83,15 @@ class _CompletedTaskScreenState extends State<CompletedTaskScreen> {
             ),
     );
   }
+=======
+import 'package:flutter/material.dart';
+
+class CompletedTaskScreen extends StatelessWidget {
+  const CompletedTaskScreen({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return const Placeholder();
+  }
+>>>>>>> 58110a0e2b4cafdae96934e7ef61c1356c6faf1a
 }

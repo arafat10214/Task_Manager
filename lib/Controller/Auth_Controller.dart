@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import 'dart:convert';
 
 import 'package:logger/logger.dart';
@@ -58,4 +59,8 @@ class AuthController{
 
 
 
+=======
+class AuthController {
+  // Add your authentication logic here
+>>>>>>> 58110a0e2b4cafdae96934e7ef61c1356c6faf1a
 }
